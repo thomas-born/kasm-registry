@@ -6,7 +6,7 @@ const nextConfig = {
   env: {
     name: 'Kasm Technologies',
     description: 'The official store for Kasm supported workspaces.',
-    icon: 'https://thomas-born.github.io/kasm-registry/1.1/image.png',
+    icon: 'https://user-images.githubusercontent.com/5698566/230345149-ef757e51-6eb9-479d-94f5-a13e4ad33b03.png',
     listUrl: 'https://thomas-born.github.io/kasm-registry',
     contactUrl: 'https://thomas-born.github.io/kasm-registry/issues',
   },
